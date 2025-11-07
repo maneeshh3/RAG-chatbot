@@ -29,8 +29,3 @@ An AI chatbot built with Streamlit & LangChain that allows you to chat with your
    ```
 
    This command launches the Streamlit app so you can start interacting with it.
-
-## Authors
-
-- [Kristina](https://github.com/KristinaZhukovskaiaRA)
-- [Aryan](https://github.com/AryanK1511)
